@@ -6,7 +6,7 @@ Live Sub Intel connects what is happening in a match to the next bench decision.
 
 [Try the Azure demo](https://live-sub-intel-fcfudheze9b5ewfz.swedencentral-01.azurewebsites.net/?team=1&minute=65&stance=attack&objective=win&inspect=1) · [One-minute judge guide](docs/submission/JUDGE_GUIDE.md) · [Submission description](docs/submission/SUBMISSION.md) · [Hackathon fit and evidence](docs/submission/JUDGING_FIT.md)
 
-Built by Thomas, Tal and Ofir for the Microsoft × Premier League hackathon.
+Built by Thomas, Gal and Ofir for the Microsoft × Premier League hackathon.
 
 ![Arsenal's current and proposed lineups in the Azure coach room](docs/submission/coach-room-arsenal.png)
 
